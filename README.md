@@ -44,3 +44,30 @@ Target encoding
 
 Standardization
 Column naming/cleaning
+
+# Adult Dataset Preprocessing
+
+## 1. Dataset Source
+
+## 2. Dataset Description
+
+## 3. Dataset Before Preprocessing
+
+## 4. Problems Identified
+
+## 5. Preprocessing Techniques
+
+### Missing Values
+### Duplicate Removal
+### Outlier Detection and Treatment
+### Data Type Correction
+### Categorical Encoding
+### Numerical Standardization
+
+## 6. Dataset After Preprocessing
+
+## 7. Final Dataset
+
+## 8. Files in Repository
+
+## 9. Technologies Used
